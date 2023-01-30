@@ -9,7 +9,7 @@ tags:
   - Computer Vision
 ---
 
-
+# Pybullet: Robots and Cameras
 Welcome to the tutorial on using PyBullet, the physics engine for simulating rigid body dynamics. In this blog post, we will be diving into the basics of PyBullet and how to use it to simulate physics in your own projects. Whether you're a beginner or an experienced developer, this tutorial will provide you with the knowledge and tools you need to get started with PyBullet. So, let's get started and learn how to create realistic physics simulations with PyBullet!
 
 <p align="center">
