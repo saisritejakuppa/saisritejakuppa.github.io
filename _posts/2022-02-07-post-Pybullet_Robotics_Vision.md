@@ -51,6 +51,7 @@ One of the main advantages of using soft-bodies in PyBullet is the ability to cr
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70435083/215380122-689f9c61-64c1-46ee-941c-426424f31743.JPG" alt="ultrasoundgif" class="center">
+<br>
 <a href="https://doi.org/10.48550/arXiv.2203.15354">Close view of robot interacting with the toroid.</a>
 </p>
 
@@ -226,6 +227,7 @@ print("creating animated png, please about 5 seconds")
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70435083/215380119-15fcf56b-8aaa-429a-854c-b58bb810fab4.JPG" alt="ultrasoundgif" class="center">
+<br>
 <a href="https://doi.org/10.48550/arXiv.2203.15354">Robot in all views.</a>
 </p>
 
