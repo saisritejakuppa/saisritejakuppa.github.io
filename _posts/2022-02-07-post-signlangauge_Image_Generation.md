@@ -1,5 +1,5 @@
 ---
-title: "Sign Langauge Part 2: Generating the Database"
+title: "Sign Langauge Part 3: Image Generation using GAN(Pix2Pix)"
 date: 2022-07-02T15:34:30-04:00
 categories:
   - blog
