@@ -25,4 +25,8 @@ URDF is widely used in robotics, it is used in popular robot simulators like Gaz
 
 
 
-![ultrasoundgif](/assets/images/pybullet_robotics_vision/softbody.gif)
+![ultrasoundgif](/assets/images/pybullet_robotics_vision/softbody1.gif)
+
+<p align="center">
+<a href="https://doi.org/10.48550/arXiv.2203.15354">UR5 robot interaction with a torid soft body.</a>
+</p>
