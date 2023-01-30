@@ -25,4 +25,4 @@ URDF is widely used in robotics, it is used in popular robot simulators like Gaz
 
 
 
-![ultrasoundgif](assets/images/pybullet_robotics_vision/softbody.gif)
+![ultrasoundgif](/assets/images/pybullet_robotics_vision/softbody.gif)
