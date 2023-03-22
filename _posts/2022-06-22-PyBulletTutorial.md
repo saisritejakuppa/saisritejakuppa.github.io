@@ -14,7 +14,7 @@ Welcome to the tutorial on using PyBullet, the physics engine for simulating rig
 </p>
 
 <p align="center">
-<a href="https://doi.org/10.48550/arXiv.2203.15354">UR5 robot interaction with a torid soft body.</a>
+<a href="">UR5 robot interaction with a torid soft body.</a>
 </p>
 
 
@@ -40,7 +40,7 @@ One of the main advantages of using soft-bodies in PyBullet is the ability to cr
 </p>
 
 <p align="center">
-<a href="https://doi.org/10.48550/arXiv.2203.15354">Interaction with the soft body.</a>
+<a href="">Interaction with the soft body.</a>
 </p>
 
 
@@ -49,7 +49,7 @@ One of the main advantages of using soft-bodies in PyBullet is the ability to cr
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70435083/215380122-689f9c61-64c1-46ee-941c-426424f31743.JPG" alt="ultrasoundgif" class="center">
 <br>
-<a href="https://doi.org/10.48550/arXiv.2203.15354">Close view of robot interacting with the toroid.</a>
+<a href="">Close view of robot interacting with the toroid.</a>
 </p>
 
 
@@ -164,17 +164,11 @@ for r in range(2):
       np_img_arr = np_img_arr * (1. / 255.)
       pylab.imshow(np_img_arr, interpolation='none', animated=True, label="pybullet")
 ```
-
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70435083/215378974-9468cbe5-50e2-49a3-8a74-4031634cc8f1.gif" alt="ultrasoundgif" class="center">
+<img src="https://user-images.githubusercontent.com/70435083/215380119-15fcf56b-8aaa-429a-854c-b58bb810fab4.JPG" alt="ultrasoundgif" class="center">
+<br>
+<a href="">Robot in all views.</a>
 </p>
-
-<p align="center">
-<a href="https://doi.org/10.48550/arXiv.2203.15354">UR5 robot interaction with a torid soft body.</a>
-</p>
-
-
 
 
 
@@ -221,9 +215,11 @@ print("creating animated png, please about 5 seconds")
 ```
 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/70435083/215378974-9468cbe5-50e2-49a3-8a74-4031634cc8f1.gif" alt="ultrasoundgif" class="center">
+</p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70435083/215380119-15fcf56b-8aaa-429a-854c-b58bb810fab4.JPG" alt="ultrasoundgif" class="center">
-<br>
-<a href="https://doi.org/10.48550/arXiv.2203.15354">Robot in all views.</a>
+<a href="">UR5 robot interaction with a torid soft body.</a>
 </p>
+
