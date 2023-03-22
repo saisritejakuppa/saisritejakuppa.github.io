@@ -119,7 +119,7 @@ The use of ResNet blocks and a multilabel classification task allows the model t
 
 
 # 5. Additional Data
-Certain audio clips contain no information and noise, for such data using a deep learning model is a waste of computation, so we use praat software to detect such things and help it to predict as long pauses. The algorithm is good enough to predict all the filler long pauses and is highly accurate.
+Certain audio clips contain no information and noise, for such data using a deep learning model is a waste of computation, so we use praat software to detect such things and help it to predict as long pauses. The algorithm is good enough to predict all the filler long pauses and is highly accurate. Hence it can deal in all the situations.
 
 
 # Results
