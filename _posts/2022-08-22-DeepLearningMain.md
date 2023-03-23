@@ -16,4 +16,4 @@ I will be using python and pytorch for this series of blog. For experimentation 
 
 Since I have some exprience in deep learning and working with images. We will be sticking to image datasets alone and sometime later I will be including NLP as well.
 
-Part 1: Setting a project
+<a href="https://saisritejakuppa.github.io/blog/2022/DeepLearningSeries-1/">Part 1: Setting a project</a> 

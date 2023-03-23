@@ -8,7 +8,6 @@ categories: Deep-Learning
 ---
 
 
-
 One of the inital things to do is to make a folder structure right for a project in deep learning. After looking into many github repo's of CVPR implemented papers, here is the structure I came up with.
 
 ```
