@@ -157,7 +157,7 @@ Its been almost 6 years I met vishnu and here are the things I learned from him.
 3. Having a big heart is more important than having a big brain. The reason I have stayed friends with Vishnu for so long is that he has good intentions in his heart, and this is what makes him a happy person.
 4. You don't need luxuries in life to be happy. Fancy language or expensive clothing does not make you superior or happy.
 5. Plan things carefully and connect the dots in a logical way. Things may not always go according to plan, but staying calm and focused will help you achieve your goals.
-6. You don't always need a therapist. Sometimes, all you need is someone to open up to, talk to, listen to, and be there for you. Get a friend and be a friend like that.
+6. Help the environment and animals. The environment helps you back some day.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -168,5 +168,5 @@ Its been almost 6 years I met vishnu and here are the things I learned from him.
     </div>
 </div>
 <div class="caption">
-    Vishnu is the friend.
+    You don't always need a therapist. Sometimes, all you need is someone to open up to, talk to, listen to, and be there for you. Get a friend and be a friend like that.<em><strong>Vishnu is the friend.</strong></em>
 </div>
