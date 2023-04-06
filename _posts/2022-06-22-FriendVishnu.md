@@ -137,7 +137,7 @@ Its been almost 6 years I met vishnu and here are the things I learned from him.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vishnu/IMG20230219125231.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/Screenshot_2017-07-16-13-20-53-376.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/vishnu/IMG20230214165712.jpg" class="img-fluid rounded z-depth-1" %}
