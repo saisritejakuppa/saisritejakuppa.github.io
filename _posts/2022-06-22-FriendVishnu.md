@@ -9,7 +9,13 @@ categories: Friends
 
 ## The Beginning
 
-I met Vishnu in 2016, when I was in my first year of college. I am really bad at CPP programming and got a low grade, but I saw someone getting the highest mark in the class and he was sitting in the somewhere in the front bench. This is where it all started,'can you teach me cpp concepts one hour per day for like a week'. I kept going each week to learn cpp to him and I came to know he is seriously good in other subjects too, so I started studying with him. This is the only combined studies I have done in my whole life that yeilded good result.
+It was the year 2016 and I was a fresh-faced college student, ready to take on the world. However, there was one tiny obstacle in my path - CPP programming. Try as I might, I just couldn't wrap my head around it and ended up with a pitiful grade. But as fate would have it, I caught a glimpse of a fellow student getting the highest marks in the class. And where was he sitting, you ask? Right up in the front row, like a boss.
+
+I knew then and there that I had to enlist his help. With trembling hands and a pounding heart, I mustered up the courage to approach him. "Hey, umm...I saw you aced the CPP exam. Do you think you could help a struggling student out? Maybe teach me some concepts for an hour each day, for like a week?" I asked.
+
+And thus, my journey with Vishnu began. Week after week, I sat with him and soaked up his knowledge like a sponge. But what started as a one-time CPP tutoring session, soon turned into something more. As it turns out, Vishnu was a certified genius in other subjects too!
+
+So we started studying together, bouncing ideas off each other and fueling each other's passion for learning. And you know what? It worked! It was the only combined study session that actually yielded results for me. It just goes to show, sometimes all it takes is a chance encounter to change the course of your academic journey.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,7 +29,7 @@ I met Vishnu in 2016, when I was in my first year of college. I am really bad at
     </div>
 </div>
 <div class="caption">
-   Vishnu and me in the first year.
+   "Who knew a chance encounter in class would lead to this - Vishnu and I, the ultimate study buddies!"
 </div>
 
 
@@ -31,15 +37,28 @@ I met Vishnu in 2016, when I was in my first year of college. I am really bad at
 
 
 ## The Bad Times
-Things went really rough in second year for some reason, I got my grade and I was depressed for multiple reasons during that time. It was Vishnu who was there all the time encouraging me to do better. I became a 2 year old kid, where a teacher have to hold your hand to make you write something. Vishnu was the teacher who held my hand and made things done. Even with a lot of effort from his end the grades couldnt improve though. That because something else is running on top of the head. I was not able to focus on studies. My CG dropped from 8.3 to 7.1, which is extremly bad. I have worked so hard to make it 8 and lost it. 
+Second year of college - the year that would change everything. It started off on the wrong foot, with low grades and a crushing feeling of defeat. But through the haze of depression, there was one constant - Vishnu. He was there through it all, encouraging and supporting me even when I felt like giving up.
 
-This is where things have gone beyond, One day I have to wake up with the news Vishnu's father is no more, which contributed more for the existing depression I had. He have to leave me and go to his home town to take care of his family. Vishnu was back and then one more I got to got a few health issues and got to go home. Things got worsend and I had to redo an year. Thus I thought it will be an end for our friendship since we got separated for a year. 
+It was like I had regressed back to being a 2-year-old, unable to write without a teacher holding my hand. And Vishnu was that teacher, guiding me through the rough patches and pushing me to do better. But no matter how hard we tried, my grades just wouldn't improve. It was like something was holding me back, preventing me from focusing on my studies.
+
+And then, tragedy struck. Vishnu's father passed away, leaving him with no choice but to leave and take care of his family. It was a devastating blow for both of us - me, already struggling with depression, and him, dealing with the loss of a parent. But through it all, we stayed in touch, supporting each other from afar.
+
+But then, things took a turn for the worse. I was hit with health issues and had to leave college to go home. It was a dark time, and I thought it was the end of our friendship. I mean, how could we stay close when we were miles apart, going through our own personal struggles?
+
+But as they say, distance makes the heart grow fonder. And when we were finally reunited, it was like we had never been apart. Sure, I had to redo a year, but having Vishnu by my side made it all worth it. Because at the end of the day, true friendship knows no distance or time - it's a bond that transcends everything else.
+
 
 ## The Good Times
 
-I had come back to college to study the third year one more time. Yes, you guessed it right, I have to study the same subjects again. After combating the health issues, depression and shit didnt seem a big deal. We are back on track and started studying hard. Vishnu was there again to help and guide me up. It went well as planned. I have got consecutive 8.5,9,9,8.5 for the followin g semesters, and my CG went back to 8.0 again.
+After the tumultuous second year, I came back to college for the third year with a renewed sense of purpose. Yes, it meant redoing the same subjects all over again, but after what I had been through, it seemed like a minor setback. With Vishnu by my side, we hit the books hard, determined to make up for lost time.
 
-We never planned to go for a trip, but always wanted to publish a paper in our college days. Fortunatly this was one of the best trips I had in my life. We got a chance to go Kerala.
+And it paid off. I started to see the results of our hard work reflected in my grades - consecutive 8.5, 9, 9, and 8.5 scores in the following semesters. My CG slowly climbed back up to 8.0, and I felt like I was finally back on track.
+
+But there was something else we had always dreamed of - publishing a paper in our college days. And while we never planned for it, fate had something else in store for us. We were given the opportunity to go on a trip to Kerala, and it turned out to be one of the best trips of my life.
+
+Surrounded by the beauty of nature, Vishnu and I got to work on our paper. We spent countless hours discussing and debating, fine-tuning our ideas until they were just right. And finally, after months of hard work, we submitted our paper.
+
+It was an incredible feeling - not just the satisfaction of having completed a long-standing goal, but also the joy of knowing that I had such an amazing friend by my side through it all. And as we celebrated our success, I knew that this was just the beginning of many more adventures to come.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -71,13 +90,17 @@ We never planned to go for a trip, but always wanted to publish a paper in our c
     </div>
 </div>
 <div class="caption">
-   Anantha Padmanabha Swamy temple. My friend Vishu have taken me to Lord Vishnu's temple.
+   Anantha Padmanabha Swamy temple.
 </div>
 
 
 
 ## Pre-Post Pandemic Times
-Vishnu made it to Microsoft as a support engineer. It was just amazing to see him working there. I was so happy for him. Yes lets party....
+I couldn't have been more proud of my friend Vishnu when he landed a job at Microsoft as a support engineer. It was amazing to see how far he had come since the first time I met him in college. I knew how hard he had worked and how much he deserved this incredible opportunity.
+
+So we decided to celebrate his success with a party. We invited all our friends and colleagues to come together and raise a toast to Vishnu's accomplishments. And as we danced and laughed and enjoyed each other's company, I couldn't help but feel grateful for having such an amazing friend in my life.
+
+It was a night filled with joy and happiness, and as we said our goodbyes at the end of the evening, I knew that this was just the beginning of many more successes for Vishnu. He had proved that anything was possible with hard work and determination, and I was excited to see where life would take him next.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -93,8 +116,13 @@ Vishnu made it to Microsoft as a support engineer. It was just amazing to see hi
 
 
 
-Because of the COVID, we have to split again and then move in seperate place for our Jobs. I choosed to be research domain and was in Chennai and he lived in Banglore. God has to think that you need to meet him, only then in someway you go to temple. I have to go to Banglore in the same way.
+As fate would have it, I found myself in Bangalore a few months after Vishnu had moved there for his job at Microsoft. It was a strange coincidence, but I couldn't help feeling like it was meant to be.
 
+We met up after so many months and it felt like nothing had changed. We talked about old times and caught up on everything that had happened in our lives since we last saw each other. It was great to see how much Vishnu had grown and achieved in his career, and I was happy to share my own experiences in the research field.
+
+But it wasn't just about work and careers. We spent hours exploring the city together, trying out new restaurants and cafes, and soaking in the culture and vibe of Bangalore. And when we visited the local temples, it felt like a sign that we were meant to cross paths again.
+
+Even though we now live in different cities, our friendship has only grown stronger over the years. And I know that no matter where life takes us, we will always find a way to stay connected and support each other.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -108,7 +136,7 @@ Because of the COVID, we have to split again and then move in seperate place for
     </div>
 </div>
 <div class="caption">
-   Met the Lord and had the fun.
+   People go to Triupati to get blessings from Lord Vishnu, but I have to go to Bangalore.
 </div>
 
 <div class="row mt-3">
@@ -120,20 +148,19 @@ Because of the COVID, we have to split again and then move in seperate place for
     </div>
 </div>
 <div class="caption">
-    The Lord is always there to help you.
+    In vishnu's house.
 </div>
 
 
 
 ## Things I learned from Vishnu
 Its been almost 6 years I met vishnu and here are the things I learned from him.
-1. Be a good friend and expect nothing back. Friendship is not a business deal you make. Its a bond you share with someone.
-2. Have a God(some supereme power you believe in) and pray to it. Doesnt matter with whom you pray(religion or methodology). Just pray. The only reason to do this is to have a peace of mind and stay positive since your are trying to gets things accomplished without hurting anyone.
-3. Bigger Heart >>>>> Bigger Brain. The reason to stay with him for a very long time he has good intension inside the heart and this is the reason he is a happy person.
-4. <em>You neednot have luxuries in life to be a happy person, fancy english or posh clothes doesnt make you superior in the room. It doesnt make you happy either.</em>
-5. Plan things in the correct way, and connect the dots in a proper manner. Things go upside down, but be stable and dont lose your cool. You will be able to get things done.
-6. <em>You never need a therapist, you need someone to open up to. You need someone to talk to. You need someone to listen to you. You need someone to be there for you. You need someone to be your friend. Get a friend and be a friend like that.</em>
-
+1. Be a good friend and expect nothing in return. Friendship is not a business transaction, but rather a bond you share with someone.
+2. Believe in a higher power and pray to it in any way that resonates with you. The purpose of prayer is to find peace of mind and stay positive while striving towards your goals without causing harm to others.
+3. Having a big heart is more important than having a big brain. The reason I have stayed friends with Vishnu for so long is that he has good intentions in his heart, and this is what makes him a happy person.
+4. You don't need luxuries in life to be happy. Fancy language or expensive clothing does not make you superior or happy.
+5. Plan things carefully and connect the dots in a logical way. Things may not always go according to plan, but staying calm and focused will help you achieve your goals.
+6. You don't always need a therapist. Sometimes, all you need is someone to open up to, talk to, listen to, and be there for you. Get a friend and be a friend like that.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
