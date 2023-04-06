@@ -2,7 +2,7 @@
 layout: post
 title:  My friend Vishnu.
 date:   2022-06-22 16:40:16
-description: Life at HTIC  
+description: My Friend Vishnu. 
 tags: Personal
 categories: Friends
 ---
@@ -13,13 +13,13 @@ I met Vishnu in 2016, when I was in my first year of college. I am really bad at
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/_20170422_192340.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/_20170422_192340.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/IMG_20170516_005940_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/IMG_20170516_005940_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/IMG-20190729-WA0003.jpg
+        {% include figure.html path="assets/img/vishnu/IMG-20190729-WA0003.jpg
 " class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -44,10 +44,10 @@ We never planned to go for a trip, but always wanted to publish a paper in our c
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/20191211_173330.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/20191211_173330.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/20191211_173338.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/20191211_173338.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -56,7 +56,7 @@ We never planned to go for a trip, but always wanted to publish a paper in our c
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/20191211_182322.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/20191211_182322.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -65,10 +65,10 @@ We never planned to go for a trip, but always wanted to publish a paper in our c
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/20191211_183705.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/20191211_183705.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/IMG_20191211_194107_645.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/IMG_20191211_194107_645.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -82,10 +82,10 @@ Vishnu made it to Microsoft as a support engineer. It was just amazing to see hi
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/20191025_163409.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/20191025_163409.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/20191109_183029_1.gif" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/20191109_183029_1.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -99,13 +99,13 @@ Because of the COVID, we have to split again and then move in seperate place for
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/IMG20230214140112.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/IMG20230214140112.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/IMG20230215203654_01.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/IMG20230215203654_01.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/IMG20230218221242.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/IMG20230218221242.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -114,10 +114,10 @@ Because of the COVID, we have to split again and then move in seperate place for
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/IMG20230217115315.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/IMG20230217115315.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/IMG20230219125231.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/IMG20230219125231.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -138,10 +138,10 @@ Its been almost 6 years I met vishnu and here are the things I learned from him.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/IMG20230219125231.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/IMG20230219125231.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/home/saiteja/saisritejakuppa.github.io/assets/img/vishnu/IMG20230214165712.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/IMG20230214165712.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
