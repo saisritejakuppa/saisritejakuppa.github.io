@@ -19,8 +19,7 @@ I met Vishnu in 2016, when I was in my first year of college. I am really bad at
         {% include figure.html path="assets/img/vishnu/IMG_20170516_005940_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vishnu/IMG-20190729-WA0003.jpg
-" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vishnu/IMG-20190729-WA0003.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -145,5 +144,5 @@ Its been almost 6 years I met vishnu and here are the things I learned from him.
     </div>
 </div>
 <div class="caption">
-    The Lord is always there to help you.
+    Vishnu is the friend.
 </div>
