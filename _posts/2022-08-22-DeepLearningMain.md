@@ -7,7 +7,6 @@ tags: Deep-Learning
 categories: Deep-Learning
 ---
 
-
 This series of blog will help you to learn 
 1. How to setup a project.
 2. How to experiment with the project.
