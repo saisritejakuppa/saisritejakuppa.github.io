@@ -2,31 +2,22 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: K Sai Sri Teja
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22nd June 1999
     - name: Languages
-      value: English, German
+      value: English, Telugu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelors
+      institution:SASTRA University, Tanjore, India.
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Member of Robotics Club.
+        - Member of Space Club.
+
 
 - title: Experience
   type: time_table
