@@ -6,7 +6,6 @@ img: assets/img/projects/disfluency.jpeg
 importance: 1
 category: work
 ---
-# DisFluency Detection Using Deep Learning
 
 Softwares used:
 1.  Python 
@@ -31,9 +30,15 @@ We have build a simple website using bootstrap and HTML, basic javascript to do 
 The link of the website is attached below. 
 
 
-https://myprosody.herokuapp.com/
-![image](https://user-images.githubusercontent.com/48018142/163707254-5e810fcd-d281-41db-a81a-6bb1b35e72f7.png)
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="https://user-images.githubusercontent.com/48018142/163707254-5e810fcd-d281-41db-a81a-6bb1b35e72f7.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Heroku App.
+</div>
 
 # 2. Data Analysis Part
 
@@ -44,23 +49,52 @@ https://myprosody.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/48018142/163707377-24d26e11-ce0a-4934-90fb-4d64911ea4af.JPG)
 ![image](https://user-images.githubusercontent.com/48018142/163709124-d00760eb-f70a-4c74-ab29-eb55882fdb7c.JPG)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="https://user-images.githubusercontent.com/48018142/163707377-24d26e11-ce0a-4934-90fb-4d64911ea4af.JPG" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="https://user-images.githubusercontent.com/48018142/163709124-d00760eb-f70a-4c74-ab29-eb55882fdb7c.JPG" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Work Flow of the project.
+</div>
+
 
 
 
 # 3. Data Agumentations
-![image](https://user-images.githubusercontent.com/48018142/163709280-9a2191fa-a436-44d8-b980-4f325bef81cf.JPG)
-
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="https://user-images.githubusercontent.com/48018142/163709280-9a2191fa-a436-44d8-b980-4f325bef81cf.JPG" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Data Augmentation.
+</div>
 
 # 4. Deep Learning Architecture
 The model consist of resnet blocks to observe patterns in spectrograms and predict output. The output can predict both the labels, since we have used multilabel classification using sigmoid at the end for each classifier.
-![image](https://user-images.githubusercontent.com/48018142/163709308-5bcf16f9-f2b0-4eef-bee3-2151a9f492a4.png)
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="https://user-images.githubusercontent.com/48018142/163709308-5bcf16f9-f2b0-4eef-bee3-2151a9f492a4.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Deep Learning Architecture.
+</div>
 
 # 5. Additional Data
 Certain audio clips contain no information and noise, for such data using a deep learning model is a waste of computation, so we use praat software to detect such things and help it to predict as long pauses. The algorithm is good enough to predict all the filler long pauses and is highly accurate.
 
 
 # Results
-![image](https://user-images.githubusercontent.com/48018142/163709282-f0ddeffc-2933-4d6b-83a3-c977bcf5e93e.JPG)
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="https://user-images.githubusercontent.com/48018142/163709282-f0ddeffc-2933-4d6b-83a3-c977bcf5e93e.JPG" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Results of the project.
+</div>
