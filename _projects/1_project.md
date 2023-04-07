@@ -13,7 +13,16 @@ Softwares used:
 3.  TensorFlow
 
 # Complete Algorithm 
-![image](https://user-images.githubusercontent.com/48018142/163709544-7e40bb40-1b57-42ee-90c9-70397f79e71e.JPG)
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="https://user-images.githubusercontent.com/48018142/163709544-7e40bb40-1b57-42ee-90c9-70397f79e71e.JPG" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Complete Algorithm.
+</div>
+
 
 ## Process of the Project
 
@@ -47,8 +56,7 @@ The link of the website is attached below.
 3.  A window is 10 seconds is sampled so that we can send in limited features to detect disfluencies.
 4.  The Mel scale mimics how the human ear works, with research showing humans don't perceive frequencies on a linear scale. Humans are better at detecting differences at lower frequencies than at higher frequencies. So we have used mel spectrograms as an input.
 
-![image](https://user-images.githubusercontent.com/48018142/163707377-24d26e11-ce0a-4934-90fb-4d64911ea4af.JPG)
-![image](https://user-images.githubusercontent.com/48018142/163709124-d00760eb-f70a-4c74-ab29-eb55882fdb7c.JPG)
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="https://user-images.githubusercontent.com/48018142/163707377-24d26e11-ce0a-4934-90fb-4d64911ea4af.JPG" class="img-fluid rounded z-depth-1" %}
