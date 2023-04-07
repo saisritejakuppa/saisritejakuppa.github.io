@@ -22,46 +22,45 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Deep Learning Engineer I, Detect Technologies.
+      institution: Indian Institute of Technology, Madras, India.
+      year: 2022 - Current
+      description:
+      - Deep learning model(Classification, Detection and Segmentation) development and testing for CCTV surveillance applications.
+      - Hands on experience in working with softwares such as nvidia-deepstream for real time deployment.
+      - Hands-on experience with MLOps software(WandB), including experimenting, managing and deploying machine learning models in production environments.
+      - Hands-on experience with GAN technology to enhance model accuracy and robustness through rigorous testing.
+
     - title: Project Engineer, HTIC
       institution: Indian Institute of Technology, Madras, India.
-      year: 1933 - 1955
+      year: 2021 - 2022
       description:
         - Developed an entire package for robot assisted needle based Spine Surgery in python. This in includes kinematics, path planning, singularity detection and Collision avoidance.
         - Experience of working with real time robots, KUKA(Industrial Robot) and Han’s Elfin Robot(Collaborative Robot).
         - Experienced in working with robotics and ROS (Robot Operating System), a software platform for building and operating robotic systems. Proficient in programming robots to perform tasks, integrating sensors and hardware, and developing algorithms and software for robotics applications.
     
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - KUKA Innovation Award Finalists(One among top 5 world teams).
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Math
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Linear Algebra
+        - Probability and Stats.
+        - Deep Learning
+    - title: Electronics Subjects
       items:
-        - Description 1.
-        - Description 2.
+        - Signals and Systems
+        - Computer Vision
+      
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Surfing, Nunchucks, Guitar.
