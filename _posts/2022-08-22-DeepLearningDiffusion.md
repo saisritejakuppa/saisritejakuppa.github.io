@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Deep Learning Diffusion  - Math and Code
+title:  Deep Learning Diffusion  - Code
 date:   2022-08-22 16:40:16
 description: Introduction to Diffusion in Deep Learning. We will be generating unconditional images.
 tags: Deep-Learning
@@ -303,3 +303,90 @@ The position encoding block helps as gudiance of the attension block to tell whi
 ```
 
 
+
+---
+## Model Training
+
+In Gans we just give noise and simply expect it to produce an image. But in this case we have to give the model the image and the time stamp. The time stamp tells us, how much noise it has to be added over time.
+
+<strong>Forward Process: </strong>
+We take a really good image and with each time step we add noise(gaussian -  normal distribution). As the time step increase we add more noise and the original image gets distorted completely. 
+
+Check the image all the time before you add the noise and remove the noise. 
+
+In the below code you can find that x is the image and t is the time step. We use certain maths as mentioned in the previous blog for math.
+
+```python
+    def noise_images(self, x, t):
+        sqrt_alpha_hat = torch.sqrt(self.alpha_hat[t])[:, None, None, None]
+        sqrt_one_minus_alpha_hat = torch.sqrt(1 - self.alpha_hat[t])[:, None, None, None]
+        Ɛ = torch.randn_like(x)
+        return sqrt_alpha_hat * x + sqrt_one_minus_alpha_hat * Ɛ, Ɛ
+```
+
+
+
+<strong>Backward Process: </strong>
+
+Optimizer I am using is adam with a learning rate of 0.001.
+Loss function is a Mean sqaured error.
+
+Crux of the code:
+
+```python
+    images = images.to(device)
+
+    #get the time step
+    t = diffusion.sample_timesteps(images.shape[0]).to(device)   #[0,0.1,0.2,....1] but as int
+
+    #get the noise image
+    x_t, noise = diffusion.noise_images(images, t)
+
+    #predict the noise
+    predicted_noise = model(x_t, t)
+
+    #calculate the loss predicted noise and the original noise generated from algo
+    loss = mse(noise, predicted_noise)
+
+    #update the model parameters
+    optimizer.zero_grad()
+    loss.backward()
+    optimizer.step()
+```
+
+
+
+```python
+        
+def train(args):
+    device = args.device
+    dataloader = get_data(args)
+    model = UNet().to(device)
+    optimizer = optim.AdamW(model.parameters(), lr=args.lr)
+    mse = nn.MSELoss()
+    diffusion = Diffusion(img_size=args.image_size, device=device)
+    l = len(dataloader)
+
+    for epoch in range(args.epochs):
+        logging.info(f"Starting epoch {epoch}:")
+        pbar = tqdm(dataloader)
+        for i, (images, _) in enumerate(pbar):
+            images = images.to(device)
+            t = diffusion.sample_timesteps(images.shape[0]).to(device)
+            x_t, noise = diffusion.noise_images(images, t)
+            predicted_noise = model(x_t, t)
+            loss = mse(noise, predicted_noise)
+
+            optimizer.zero_grad()
+            loss.backward()
+            optimizer.step()
+            
+            #print the loss
+            print(f"Epoch: {epoch}, Step: {i}, Loss: {loss.item()}")
+
+            pbar.set_postfix(MSE=loss.item())
+
+        sampled_images = diffusion.sample(model, n=images.shape[0])
+        save_images(sampled_images, os.path.join("results", args.run_name, f"{epoch}.jpg"))
+        torch.save(model.state_dict(), os.path.join("models", args.run_name, f"ckpt.pt"))
+```
