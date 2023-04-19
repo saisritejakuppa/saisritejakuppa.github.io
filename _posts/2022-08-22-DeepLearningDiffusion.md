@@ -7,8 +7,6 @@ tags: Deep-Learning
 categories: Deep-Learning
 ---
 
-# Deep Learning Diffusion - Math and Code
-
 ## Diffusion vs GAN
 
 For  image generation, we have been using GANs for a considerable time. However, training GANs can be challenging due to the need to control multiple loss functions and assign individual weights to them. To overcome this difficulty, we turn to diffusion models.
