@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Deep Learning Diffusion  - Code
+title:  Deep Learning Diffusion - Code
 date:   2022-08-22 16:40:16
 description: Introduction to Diffusion in Deep Learning. We will be generating unconditional images.
 tags: Deep-Learning
-categories: Deep-Learning
+categories: Diffusion
 ---
 
 ## Diffusion vs GAN
@@ -55,12 +55,9 @@ Residual connections helps during the backwards propagation for the flow of the 
 
 The refined lower dimension image does consist of the information of the higher dimension image. So, we need to upscale the image to the original dimension. This is where the <em>upscaling blocks</em> come into the picture.
 
-
-
+<br>
 
 -----------
-
-
 ### Convolutional Block
 
 Convolution blocks helps to retain the information of the neighbouring pixels. This helps to presever from low freq to high freq information. 
@@ -88,7 +85,7 @@ class DoubleConv(nn.Module):
             return self.double_conv(x)
 ```
 
-
+<br>
 
 -----------
 
@@ -124,6 +121,7 @@ class Down(nn.Module):
         return x + emb
 ```
 
+<br>
 
 -----------
 
@@ -164,8 +162,9 @@ class Up(nn.Module):
         return x + emb
 ```
 
------------
+<br>
 
+-----------
 
 ### Self Attension Block
 
@@ -208,6 +207,8 @@ class SelfAttention(nn.Module):
         
         return attention_value.swapaxes(2, 1).view(-1, self.channels, self.size, self.size)  #[1,256,4] -> [1,4,16,16]
 ```
+
+<br>
 
 -----------
 
@@ -302,7 +303,7 @@ The position encoding block helps as gudiance of the attension block to tell whi
         return pos_enc
 ```
 
-
+<br>
 
 ---
 ## Model Training
@@ -354,39 +355,3 @@ Crux of the code:
     optimizer.step()
 ```
 
-
-
-```python
-        
-def train(args):
-    device = args.device
-    dataloader = get_data(args)
-    model = UNet().to(device)
-    optimizer = optim.AdamW(model.parameters(), lr=args.lr)
-    mse = nn.MSELoss()
-    diffusion = Diffusion(img_size=args.image_size, device=device)
-    l = len(dataloader)
-
-    for epoch in range(args.epochs):
-        logging.info(f"Starting epoch {epoch}:")
-        pbar = tqdm(dataloader)
-        for i, (images, _) in enumerate(pbar):
-            images = images.to(device)
-            t = diffusion.sample_timesteps(images.shape[0]).to(device)
-            x_t, noise = diffusion.noise_images(images, t)
-            predicted_noise = model(x_t, t)
-            loss = mse(noise, predicted_noise)
-
-            optimizer.zero_grad()
-            loss.backward()
-            optimizer.step()
-            
-            #print the loss
-            print(f"Epoch: {epoch}, Step: {i}, Loss: {loss.item()}")
-
-            pbar.set_postfix(MSE=loss.item())
-
-        sampled_images = diffusion.sample(model, n=images.shape[0])
-        save_images(sampled_images, os.path.join("results", args.run_name, f"{epoch}.jpg"))
-        torch.save(model.state_dict(), os.path.join("models", args.run_name, f"ckpt.pt"))
-```
