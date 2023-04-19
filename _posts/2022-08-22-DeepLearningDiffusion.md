@@ -60,6 +60,7 @@ The refined lower dimension image does consist of the information of the higher 
 
 
 
+-----------
 
 
 ### Convolutional Block
@@ -91,8 +92,7 @@ class DoubleConv(nn.Module):
 
 
 
-
-
+-----------
 
 ### Downscaling Blocks
 
@@ -127,6 +127,7 @@ class Down(nn.Module):
 ```
 
 
+-----------
 
 
 
@@ -165,6 +166,7 @@ class Up(nn.Module):
         return x + emb
 ```
 
+-----------
 
 
 ### Self Attension Block
@@ -209,6 +211,7 @@ class SelfAttention(nn.Module):
         return attention_value.swapaxes(2, 1).view(-1, self.channels, self.size, self.size)  #[1,256,4] -> [1,4,16,16]
 ```
 
+-----------
 
 
 ### Unet Model
