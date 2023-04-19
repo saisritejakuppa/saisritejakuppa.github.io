@@ -61,9 +61,8 @@ The refined lower dimension image does consist of the information of the higher 
 
 
 
-<details>
-<summary>Convolutional Block</summary>
-<br>
+
+### Convolutional Block
 
 Convolution blocks helps to retain the information of the neighbouring pixels. This helps to presever from low freq to high freq information. 
 
@@ -89,13 +88,13 @@ class DoubleConv(nn.Module):
         else:
             return self.double_conv(x)
 ```
-</details>
 
 
-<details>
-<summary>Downscaling Block</summary>
-<br>
 
+
+
+
+### Downscaling Blocks
 
 Downscaling block helps to reduce the dimension of the image. This is done by maxpooling and convolution. The maxpooling helps to reduce the dimension of the image. The convolution helps to retain the information of the neighbouring pixels.
 
@@ -126,20 +125,20 @@ class Down(nn.Module):
         emb = self.emb_layer(t)[:, :, None, None].repeat(1, 1, x.shape[-2], x.shape[-1])
         return x + emb
 ```
-</details>
 
 
 
-<details>
-<summary>Upscaling Block</summary>
-<br>
+
+
+### Upscaling Block
 Upscaling block you can think of it as the reverse of the downscaling block. It helps to upscale the image to the original dimension.
 
 we have discussed about the resnet block, we didnt rather implement a whole block, we embedded into the code as a line, where we take information from the downscale and add the information to the upscale blocks. This helps to preserve the information of the higher dimensions of the feature maps and the backpropagation is easy as well.
 
 Take a focus on the variable t, but t is an embedding or extra information we are giving to the model. This can be any vector.
 
-```
+```python
+
 class Up(nn.Module):
     def __init__(self, in_channels, out_channels, emb_dim=256):
         super().__init__()
@@ -165,16 +164,16 @@ class Up(nn.Module):
         emb = self.emb_layer(t)[:, :, None, None].repeat(1, 1, x.shape[-2], x.shape[-1])
         return x + emb
 ```
-</details>
 
 
-<details>
-<summary>Self Attension Block</summary>
-<br>
+
+### Self Attension Block
+
 Self attention picks only important features and helps you to retain the the block things which are essential. 
 There is self attention and cross attention. Self Attension is used to get important features from the images. Imagine now you want to cluster up two images, then you start looking for cross attenstion. The other one need not be an image alone, also text/audio. Tensors again. 
 
 ```python
+
 class SelfAttention(nn.Module):
     def __init__(self, channels, size):
         super(SelfAttention, self).__init__()
@@ -209,7 +208,7 @@ class SelfAttention(nn.Module):
         
         return attention_value.swapaxes(2, 1).view(-1, self.channels, self.size, self.size)  #[1,256,4] -> [1,4,16,16]
 ```
-</details>
+
 
 
 ### Unet Model
@@ -217,11 +216,8 @@ Unet is a model introduced intially for bio medical segmentation, but soon it sp
 
 There are skip connections from downsacling to upscaling blocks to preserve the information from the original image.
 
-<details>
-<summary>Unet Model</summary>
-<br>
-
 ```python
+
 class UNet(nn.Module):
     def __init__(self, c_in=3, c_out=3, time_dim=256, device="cuda"):
         super().__init__()
@@ -284,7 +280,7 @@ class UNet(nn.Module):
         output = self.outc(x)
         return output
 ```
-</details>
+
 
 
 
