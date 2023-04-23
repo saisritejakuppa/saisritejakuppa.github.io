@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Deep Learning Series - Part 2
+title:  Deep Learning Series - Part 1.1
 date:   2022-08-22 16:40:16
-description: Transformers vs Convolutions
+description: Embeddings
 tags: Deep-Learning
-categories: Transformers, Convolutions
+categories: Embeddings
 ---
 
 This article is to get insights about transformers vs convolutions. 
