@@ -3,7 +3,7 @@ layout: post
 title:  Deep Learning Series - Projects
 date:   2022-08-22 16:40:16
 description: Welcome to ride of deep learning projects, you will be doing, setting up project, experimenting it.
-tags: Deep-Learning, Generative AI
+tags: Deep-Learning GenerativeAI
 categories: GenerativeAI
 ---
 

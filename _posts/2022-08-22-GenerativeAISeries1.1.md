@@ -3,7 +3,7 @@ layout: post
 title:  Deep Learning Series - Part 1.1
 date:   2022-08-22 16:40:16
 description: Embeddings
-tags: Deep-Learning
+tags: Deep-Learning GenerativeAI
 categories: Embeddings
 ---
 
