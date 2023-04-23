@@ -4,7 +4,7 @@ title:  Deep Sea Creatures
 date:   2023-05-05- 16:40:16
 description: Electric Fishes
 tags: DeepSea
-categories: DeepSea-ElectricFishes
+categories: DeepSea ElectricFishes
 ---
 
 We begin with electric fishes and how does it generate the electricty.
