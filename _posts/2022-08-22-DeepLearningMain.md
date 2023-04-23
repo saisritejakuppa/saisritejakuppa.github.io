@@ -16,3 +16,8 @@ I will be using python and pytorch for this series of blog. For experimentation 
 Since I have some exprience in deep learning and working with images. We will be sticking to image datasets alone and sometime later I will be including NLP as well.
 
 <a href="https://saisritejakuppa.github.io/blog/2022/DeepLearningSeries-1/">Part 1: Setting a project</a> 
+<a href="">Part 2: Transformers vs Convolutions</a>
+<a href="">Part 3: VAE</a>
+<a href="">Part 4: Unet Architectures</a>
+<a href="">Part 5: GAN's</a>
+<a href="">Part 6: Diffusion Models</a>
