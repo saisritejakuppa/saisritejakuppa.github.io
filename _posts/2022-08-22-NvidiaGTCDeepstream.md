@@ -12,10 +12,6 @@ Alright now you know how to train a deep learning model, what's next. You wanna 
 
 In this blog we are gonna deal with all these stuff about deployment and model retraining for a high accuracy.
 
-
-
-
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Solving_Grand_Challenge/Untitled.png" class="img-fluid rounded z-depth-1" %}
@@ -55,9 +51,7 @@ The RTSP is a steam of video frames that are given to the video management softw
     Current Methods.
 </div>
 
-
-
-
+----
 
 ## Features in Upgraded Deepstream
 
