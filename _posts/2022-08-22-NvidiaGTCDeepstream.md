@@ -8,8 +8,12 @@ categories: DeepStream
 ---
 
 
+Alright now you know how to train a deep learning model, what's next. You wanna deploy it and check it how its performing. If its performing bad, how to proceed further. If its performing good, how to scale it.
 
-In this post we will see how to solve grand challenges in video analytics using Deepstream. We will be dicussing about the new deepsteam pipeline and CG dataset generation for training/inference of the model.
+In this blog we are gonna deal with all these stuff about deployment and model retraining for a high accuracy.
+
+
+
 
 
 <div class="row mt-3">
