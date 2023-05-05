@@ -1,76 +1,22 @@
 ---
 layout: post
-title:  Solving Challenges in Video Analytics
+title:  Solving Grand Challenges in Video Analytics
 date:   2022-08-22 16:40:16
 description: Embeddings
 tags: DeepStream
 categories: DeepStream
 ---
 
-# Solving Grand Challenges
 
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled.png)
+Alright now you know how to train a deep learning model, what's next. You wanna deploy it and check it how its performing. If its performing bad, how to proceed further. If its performing good, how to scale it.
 
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%201.png)
+In this blog we are goona deal with all these stuff about deployment and model retraining for a high accuracy.
 
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%202.png)
 
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%203.png)
+Place you wanted to deploy your deep learning models at.
 
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%204.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%205.png)
-
-Usinig multi camera for tracking.
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%206.png)
-
-There are so many types of cameras.
-
-Not all the time you will have the facial information to track.
-
-Scale to thousands of cameras.
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%207.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%208.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%209.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2010.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2011.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2012.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2013.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2014.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2015.png)
-
-Training of model:
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2016.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2017.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2018.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2019.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2020.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2021.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2022.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2023.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2024.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2025.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2026.png)
-
-![Untitled](assets/img/Solving_Grand_Challenge/Solving%20Grand%20Challenges%20113ab24cc0404115802c2d52dcc7b2d3/Untitled%2027.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Solving_Grand_Challenge/Untitled.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
