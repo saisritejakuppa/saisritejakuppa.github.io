@@ -54,10 +54,6 @@ One of the main advantages of using soft-bodies in PyBullet is the ability to cr
 
 
 
-
-
-
-
 python code
   
 ## Install the dependencies and load the necessary headers
