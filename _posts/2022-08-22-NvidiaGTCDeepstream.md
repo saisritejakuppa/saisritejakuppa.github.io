@@ -10,7 +10,7 @@ categories: DeepStream
 
 Alright now you know how to train a deep learning model, what's next. You wanna deploy it and check it how its performing. If its performing bad, how to proceed further. If its performing good, how to scale it.
 
-In this blog we are goona deal with all these stuff about deployment and model retraining for a high accuracy.
+In this blog we are gonna deal with all these stuff about deployment and model retraining for a high accuracy.
 
 
 
