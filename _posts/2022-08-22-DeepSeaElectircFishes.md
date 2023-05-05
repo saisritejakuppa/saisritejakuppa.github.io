@@ -13,3 +13,6 @@ Electric fishes are a fascinating group of aquatic creatures that have the abili
 Electric fishes are able to generate electricity through specialized cells called electrocytes. These electrocytes are stacked together like batteries to form electric organs, which are located in different parts of the fish's body depending on the species. When the fish wants to produce an electric field, it sends a signal from its brain to the electric organ, which causes the electrocytes to discharge simultaneously. This creates a strong electric field that can be used for a variety of purposes, such as detecting prey, communicating with other fish, or defending against predators. The strength and frequency of the electric field can be adjusted by the fish depending on its needs, allowing it to adapt to different environments and situations. The ability of electric fishes to produce electricity is a remarkable feat of nature and continues to fascinate scientists and the general public alike.
 
 
+[![Electric EEL's](https://img.youtube.com/vi/z0M7_HPSi14/0.jpg)](https://www.youtube.com/watch?v=z0M7_HPSi14&pp=ygUNZWxlY3RyaWMgZWVscw%3D%3D)
+
+
