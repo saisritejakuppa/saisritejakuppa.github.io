@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  SignLangauge - A Review of entire system.
-date:   2022-09-22 16:40:16
-description: A detailed look at the end to end system for sign langauge video generation.
+date:   2023-08-22 16:40:16
+description: Sign Language Video Generation.
 tags: SignLangauge DeepLearning
 categories: SignLangauge
 ---
@@ -21,7 +21,6 @@ All the datasets in the sign langauge would have a video + gloss + text. Based o
 The things I am intrested in to look for are:
 1. Text to Pose
 3. Text to Video
-
 
 Anyways in both the procedure the common ground is to have text input and a video output. When I say text, the input would be a spoken langauge like english, hindi, french...etc. The output would be a video of the sign language( skeleton based one or a human realistic one).
 
@@ -55,10 +54,3 @@ Anyways in both the procedure the common ground is to have text input and a vide
 
 ### 2018
 1. Sign Language Production using Neural Machine Translation and Generative Adversarial Networks.
-
-
-
-
-
-
-
