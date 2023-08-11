@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Deep Learning Series - Part 2
+title:  Deep Learning Data Sources
 date:   2022-08-22 16:40:16
 description: Convolutional Neural Networks in Vision
 tags: Deep-Learning
@@ -10,7 +10,7 @@ categories: Deep-Learning
 Convolutional neural nets are the next thing in the deep learning world. They are the reason why deep learning is so popular in the field of computer vision. They are the reason why we can do so many things with images. 
 
 
-## Process of building a CNN
+## Things to look for while building deep learning models.
 1. Gather the dataset.
 2. Clean the dataset.
 3. Split the dataset into train, test and validation.
@@ -21,7 +21,7 @@ Convolutional neural nets are the next thing in the deep learning world. They ar
 8. Monitor the model.
 9. Improve the model.
 10. Repeat the process.
-
+Process of building a CNN
 
 ## Getting started with the convolutional tasks. 
 1. Math for convolution - [Link](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB)

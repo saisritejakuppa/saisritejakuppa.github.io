@@ -3,7 +3,7 @@ layout: post
 title:  SignLangauge - A Review of entire system.
 date:   2022-09-22 16:40:16
 description: A detailed look at the end to end system for sign langauge video generation.
-tags: SignLangauge
+tags: SignLangauge DeepLearning
 categories: SignLangauge
 ---
 

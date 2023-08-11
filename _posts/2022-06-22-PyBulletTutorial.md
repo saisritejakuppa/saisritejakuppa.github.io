@@ -3,7 +3,7 @@ layout: post
 title:  Introduction to Pybullet
 date:   2022-09-22 16:40:16
 description: Pybullet tutorial, Load and View robots.
-tags: Pybullet
+tags: RL
 categories: Pybullet
 ---
 # Pybullet: Robots and Cameras
