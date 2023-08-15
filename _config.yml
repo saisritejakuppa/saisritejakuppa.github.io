@@ -155,10 +155,6 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-  - name: medium.com
-    rss_url: https://medium.com/@saisritejakuppa/model-training-with-zero-data-3b1bbfc6dfbe
-  - name: medium.com
-    rss_url: https://medium.com/@saisritejakuppa/tranfer-learning-from-the-nature-1541095a196a
 
 # -----------------------------------------------------------------------------
 # Collections
