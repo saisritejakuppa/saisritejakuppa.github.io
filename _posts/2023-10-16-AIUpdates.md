@@ -3,7 +3,7 @@ layout: post
 title:  AI News.
 date:   2023-10-16 16:40:16
 description: This is a list of medium blogs of all the latest trends in AI.
-tags: AI DeepLearning ComputerVision
+tags: AI
 categories: AI
 ---
 
