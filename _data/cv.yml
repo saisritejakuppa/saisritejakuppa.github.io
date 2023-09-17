@@ -11,6 +11,11 @@
 - title: Education
   type: time_table
   contents:
+    - title: Masters
+      institution: Indian Institute of Technology, Madras, India.
+      year: 2021
+      description:
+        - Working in CIlab under the Guidance of Prof.Kaushik Mitra.
     - title: Bachelors
       institution: SASTRA University, Tanjore, India.
       year: 2021
