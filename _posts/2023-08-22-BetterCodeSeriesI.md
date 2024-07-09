@@ -75,4 +75,36 @@ Also you can add more information about to the name like EmailResponse.send(), t
 3. Dont overadd or under add the required info requried for the variable.
 
 
+# Comments
 
+## Bad comments
+1. Giving redundant information.
+2. The variable names and the comments give different information.
+3. Large comments that will block the code.
+4. Commented code is scary in production and can lead to misleading information. Use version control system to bring the old code and delete the bad code.
+
+## Good Comments
+1. Legal Information
+2. Explanation that cant be delivered by variable names.
+3. Important warnings while running the code.
+4. Import docstring that are essential for API.
+
+## Code formatting
+1. Vertical formatting
+    1. Spacing of lines
+    2. Grouping of lines
+2. Horizontal formatting
+    1. intendation 
+    2. width of code lines.
+    3. Space between the code.
+
+### Vertical Formatting
+1. Multiple classes in a single file, split it into multiple files.
+2. Adding lines between the codes, we have autoformatters to do that. Similar concepts shouldnt be seperatad by spaces.
+3. Stack the function in a proper classes, so the search becomes easy.
+
+
+### Horizontal Formatting
+1. Lines should be readable without even scrolling.
+2. Long lines can be done multiple shorter ones.
+3. Dont use longer variable names, so the length of the line is shorter to read.
