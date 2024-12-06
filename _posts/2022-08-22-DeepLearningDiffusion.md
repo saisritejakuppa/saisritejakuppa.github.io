@@ -3,7 +3,7 @@ layout: post
 title:  Deep Learning Diffusion - Code
 date:   2022-08-22 16:40:16
 description: Introduction to Diffusion in Deep Learning. We will be generating unconditional images.
-tags: Deep-Learning
+tags: DeepLearning
 categories: Diffusion
 ---
 

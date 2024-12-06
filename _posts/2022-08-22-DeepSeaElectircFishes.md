@@ -3,7 +3,7 @@ layout: post
 title:  DeepSea Electric Fishes
 date:   2022-08-22 16:40:16
 description: Electric Fishes
-tags: DeepSea
+tags: Personal
 categories: Neuroscience Deepsea EledtricFishes
 ---
 

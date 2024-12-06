@@ -3,7 +3,7 @@ layout: post
 title:  SignLangauge - A Review of entire system.
 date:   2023-08-22 16:40:16
 description: Sign Language Video Generation.
-tags: SignLangauge DeepLearning
+tags: Projects
 categories: SignLangauge
 ---
 

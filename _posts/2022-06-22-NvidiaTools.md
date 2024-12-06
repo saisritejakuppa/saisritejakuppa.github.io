@@ -3,7 +3,7 @@ layout: post
 title:  Nvidia Tools
 date:   2022-09-22 16:40:16
 description: Using Nvidia Tools for Neural Networks 
-tags: NvidiaTao
+tags: SoftwareTools
 categories: Nvidia-Tao 
 ---
 

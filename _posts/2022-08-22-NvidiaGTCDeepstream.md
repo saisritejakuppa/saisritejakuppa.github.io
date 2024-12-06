@@ -3,7 +3,7 @@ layout: post
 title:  Solving Grand Challenges in Video Analytics
 date:   2022-08-22 16:40:16
 description: Embeddings
-tags: DeepLearning
+tags: SoftwareTools
 categories: DeepStream
 ---
 

@@ -250,7 +250,7 @@ jekyll-archives:
 
 # display_tags: ['formatting', 'images', 'links', 'math', 'code','Personal'] # this tags will be dispalyed on the front page of your blog
 
-display_tags: ['Personal', 'Pybullet', 'NvidiaTao', 'SignLangauge', 'SpeechProcessing', 'Deep-Learning', 'ComputerVision', 'AI', 'BetterCode']
+display_tags: ['Personal', 'SpeechProcessing', 'DeepLearning', 'ComputerVision', 'Robotics', 'SoftwareTools' , 'Projects']
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

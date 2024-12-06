@@ -3,8 +3,8 @@ layout: post
 title:  Deep Learning Data Sources
 date:   2022-08-22 16:40:16
 description: Convolutional Neural Networks in Vision
-tags: Deep-Learning
-categories: Deep-Learning
+tags: DeepLearning
+categories: CNN
 ---
 
 Convolutional neural nets are the next thing in the deep learning world. They are the reason why deep learning is so popular in the field of computer vision. They are the reason why we can do so many things with images.
