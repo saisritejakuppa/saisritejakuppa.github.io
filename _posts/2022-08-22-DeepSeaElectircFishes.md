@@ -4,7 +4,7 @@ title:  DeepSea Electric Fishes
 date:   2022-08-22 16:40:16
 description: Electric Fishes
 tags: Personal
-categories: Neuroscience Deepsea EledtricFishes
+categories: Neuroscience Deepsea ElectricFishes
 ---
 
 Electric fishes are a fascinating group of aquatic creatures that have the ability to generate electric fields. These electric fields are used for a variety of purposes, including communication, navigation, and prey detection. Electric fishes are found in both freshwater and saltwater environments and belong to several different families, including the electric eel, electric catfish, and electric ray. The electric eel, for example, can generate electric shocks of up to 600 volts, making it one of the most powerful electric fishes in the world. Despite their name, not all electric fishes are true eels, and some species are more closely related to other types of fish. Scientists continue to study electric fishes to learn more about their unique abilities and the role they play in aquatic ecosystems.
